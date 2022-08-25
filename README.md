@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hendrasaleh
-- 👀 I’m interested in PHP and some other language
+- 👀 I’m interested in PHP and some other languages
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
